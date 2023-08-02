@@ -1,3 +1,1 @@
-RT-AC86U_386.9_0.zip filter=lfs diff=lfs merge=lfs -text
-testfile2.zip filter=lfs diff=lfs merge=lfs -text
-testfile.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
